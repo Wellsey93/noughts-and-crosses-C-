@@ -1,0 +1,14 @@
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/bin/Debug/net8.0/main
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/bin/Debug/net8.0/main.deps.json
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/bin/Debug/net8.0/main.runtimeconfig.json
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/bin/Debug/net8.0/main.dll
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/bin/Debug/net8.0/main.pdb
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.AssemblyInfoInputs.cache
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.AssemblyInfo.cs
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.csproj.CoreCompileInputs.cache
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.dll
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/refint/main.dll
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.pdb
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/main.genruntimeconfig.cache
+/home/lucas/Documents/C#Programming/noughts-and-crosses/main/obj/Debug/net8.0/ref/main.dll
